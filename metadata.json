@@ -1,0 +1,5 @@
+{
+  "name": "Smart ReOrg Chart",
+  "description": "An intelligent, collaborative, and efficient tool for planning and executing organizational reorganizations. This prototype uses AI to suggest candidate placements based on skills and team goals, and features a drag-and-drop interface for easy org chart design.",
+  "requestFramePermissions": []
+}
