@@ -3,7 +3,7 @@
 # Run and deploy  Smart Reorg Chart app
  
 
-View your app in AI Studio: https://ai.studio/apps/drive/1OTl7ogcnQPW6BckJoB8bHU6nMZ45UJHO
+View  app in AI Studio: https://ai.studio/apps/drive/1OTl7ogcnQPW6BckJoB8bHU6nMZ45UJHO
 
 ## Run Locally
 
